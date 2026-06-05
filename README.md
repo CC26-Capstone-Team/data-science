@@ -184,7 +184,7 @@ jupyter notebook Carpathmu_Data_Science.ipynb
 streamlit run dashboard/dashboard.py
 ```
 
-Dashboard akan terbuka di browser pada `http://localhost:8501`.
+Dashboard akan terbuka di browser pada `https://dashboard-carpathmu22.streamlit.app/`.
 
 ---
 
